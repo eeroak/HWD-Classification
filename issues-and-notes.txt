@@ -1,4 +1,9 @@
 Just a file for me to keep track of what i had issues with during this project.
 ###################################################################################
 
+ISSUES
 Data loading issues, folder structure might be scuffed.
+
+
+NOTES
+The pixels in the 28X28 handwritten digit image are flattened to form an array of 784-pixel values, so basically decompressing a 2D-array into one dimension.
