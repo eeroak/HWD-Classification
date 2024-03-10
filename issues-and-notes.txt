@@ -1,0 +1,4 @@
+Just a file for me to keep track of what i had issues with during this project.
+###################################################################################
+
+Data loading issues, folder structure might be scuffed.
