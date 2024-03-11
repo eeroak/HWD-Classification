@@ -8,3 +8,4 @@ Another issue with the data shape, matrices were different sizes so no multiplic
 
 NOTES
 The pixels in the 28X28 handwritten digit image are flattened to form an array of 784-pixel values, so basically decompressing a 2D-array into one dimension.
+First accuracy score i got was 90%, then 96%, and finally 97%. The Adam optimizer seems to be the best one to go with so far for this problem.
