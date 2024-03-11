@@ -10,5 +10,5 @@ The steps are as follows:
   
 ## Authors  
 <ul>
-  <li> [Eero Kuosmanen](https://github.com/eeroak "Eero Kuosmanen").</li>
+  <li>Eero Kuosmanen</li>
 </ul>
