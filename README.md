@@ -35,3 +35,7 @@ Simply just fork the repository, download the python packages you miss, and run 
 <ul>
   <li>Eero Kuosmanen</li>
 </ul>
+
+
+#### Project status
+Finished✅
