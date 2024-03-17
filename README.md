@@ -31,7 +31,7 @@ Next time i could improve on handling the data correctly and formatting it corre
 ## Running the project
 Simply just fork the repository, download the python packages you miss, and run all of the jupyter kernels.
   
-## Authors 🔧  
+## 🔧 Authors  
 <ul>
   <li>Eero Kuosmanen</li>
 </ul>
